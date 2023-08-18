@@ -1,0 +1,47 @@
+{
+  "Animals": [
+    "dog",
+    "giraffe",
+    "cat",
+    "lion",
+    "tiger",
+    "elephant",
+    "fish",
+    "cow",
+    "sheep"
+  ],
+  "Football Clubs": [
+    "barcelona",
+    "arcenal",
+    "man city",
+    "man unaited",
+    "chealse",
+    "real madreid",
+    "liverpool"
+  ],
+  "Cars Company": ["hunda", "bmw", "marcedece", "tayota"],
+  "technology Company": ["apple", "microsoft", "hp", "dell", "rayzen"],
+  "Programing Langung ": ["php", "python", "javascript", "html", "flutter"],
+  "Cites": ["khartoum", "dubi", "oman", "riyadh"],
+  "Countries": [
+    "sudan",
+    "iran",
+    "egpt",
+    "lebnon",
+    "saudia",
+    "qatar",
+    "seryia",
+    "jorden",
+    "yemen",
+    "germany",
+    "algeria",
+    "bahrin",
+    "pakistan",
+    "india",
+    "china",
+    "korea",
+    "france",
+    "spain"
+  ],
+  "sports": ["foot ball", "swimming", "tinnes", "biking", "boxing"]
+}
