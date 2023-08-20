@@ -16,7 +16,7 @@ lettersArray.forEach((e) => {
 });
 
 // get random word from obj above
-fetch("./hangman.json")
+fetch("./data.json")
   .then((res) => {
     return res.json();
   })
